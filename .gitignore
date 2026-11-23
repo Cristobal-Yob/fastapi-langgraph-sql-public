@@ -1,0 +1,10 @@
+/.venv/
+/.pytest_cache/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.sqlite3-journal
+*.sqlite3-shm
+*.sqlite3-wal
+/data/sales-rebuilt.sqlite3

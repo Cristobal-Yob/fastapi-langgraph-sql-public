@@ -1,0 +1,13 @@
+**
+!Dockerfile
+!requirements.txt
+!app/
+!app/__init__.py
+!app/agent.py
+!app/api.py
+!app/query.py
+!app/telemetry.py
+!app/sales_prompt.txt
+!data/
+!data/schema.sql
+!data/sales.sqlite3
